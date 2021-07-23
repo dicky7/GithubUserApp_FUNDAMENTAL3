@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FavoriteConsumer</string>
+    <string name="dicky_widya_angga_kusuma">Dicky Widya Angga Kusuma</string>
+    <string name="google">Google</string>
+    <string name="san_fracisco_usa">San Fracisco-USA</string>
+    <string name="_40">40</string>
+    <string name="followers">Followers</string>
+    <string name="_2000">2000</string>
+    <string name="repositories">Repositories</string>
+    <string name="_36">36</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="daily_message">Let`s find favourite user on Github</string>
+    <string name="notification_settings">Setting Notification</string>
+    <string name="git">Github Daily Alarm</string>
+    <string name="add_user">User Add To Favorite</string>
+    <string name="delete_user">User Delete From Favorite</string>
+    <string name="list_fav">Favorite list Empty</string>
+</resources>

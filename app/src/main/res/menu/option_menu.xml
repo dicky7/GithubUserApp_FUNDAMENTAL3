@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/change_language"
+        android:title="@string/change_language_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/notification_set"
+        android:title="@string/notification_settings"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/favorite_Home"
+        android:icon="@drawable/ic_baseline_favorite_border_24"
+        android:title=""
+        app:showAsAction="always"/>
+</menu>

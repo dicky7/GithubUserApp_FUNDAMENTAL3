@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FavoriteConsumer</string>
+    <string name="dicky_widya_angga_kusuma">Dicky Widya Angga Kusuma</string>
+    <string name="google">Google</string>
+    <string name="san_fracisco_usa">San Fracisco-USA</string>
+    <string name="_40">40</string>
+    <string name="followers">Pengikut</string>
+    <string name="_2000">2000</string>
+    <string name="repositories">Repositori</string>
+    <string name="_36">36</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="daily_message">Mari kita temukan pengguna favorit di Github</string>
+    <string name="notification_settings">Pengaturan Pemberitahuan</string>
+    <string name="git">Alarm Harian Github</string>
+    <string name="add_user">Pengguna ditambahkan Ke Favorite</string>
+    <string name="delete_user">Pengguna diHapus dari Favorite</string>
+    <string name="list_fav">Favorite list Kosong</string>
+</resources>
